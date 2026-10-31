@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="625" viewBox="0 0 560 625" role="img" aria-labelledby="title desc">
+<title id="title">O néfron — esquema didático</title><desc id="desc">A unidade funcional em um traço.. Ilustração original demonstrativa, sem orientação clínica.</desc>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#193E42" opacity="0.06"/></pattern><linearGradient id="coral" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ED9B86"/><stop offset="1" stop-color="#C66662"/></linearGradient><linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6E7DA"/><stop offset="1" stop-color="#92B7A9"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A9C7D4"/><stop offset="1" stop-color="#6F9FAC"/></linearGradient></defs>
+<rect width="560" height="625" fill="#EFEADE"/><rect width="560" height="625" fill="url(#dots)"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif"><text x="36" y="40" font-size="10" letter-spacing="2.2" opacity="0.72">CADERNO VISUAL / 04</text><text x="36" y="81" font-family="Georgia,serif" font-size="34">O néfron</text><text x="36" y="108" font-size="12" opacity="0.7">A unidade funcional em um traço.</text></g>
+
+<circle cx="280" cy="332" r="169" fill="#E7DFCB"/>
+<path d="M137 245C113 263 109 306 132 328C156 349 195 331 197 304C201 276 177 246 150 248" fill="#F3D6C3" stroke="#C18A72" stroke-width="5"/>
+<path d="M149 264C123 272 134 291 152 285C175 277 181 299 159 304C138 309 141 324 163 319C188 313 191 286 177 273C165 263 150 282 146 296" fill="none" stroke="#C6776C" stroke-width="7" stroke-linecap="round"/>
+<path d="M171 250L178 210M135 264L115 223" stroke="#C6776C" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M193 304C230 304 218 267 241 263C263 259 261 302 280 301C299 301 281 266 302 266C327 267 328 309 305 326L274 355L274 455C274 491 312 491 312 455L312 367C312 342 337 346 347 329C358 307 339 289 352 271C371 248 384 274 378 290C371 312 402 314 415 289" fill="none" stroke="#C19E69" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M193 304C230 304 218 267 241 263C263 259 261 302 280 301C299 301 281 266 302 266C327 267 328 309 305 326L274 355L274 455C274 491 312 491 312 455L312 367C312 342 337 346 347 329C358 307 339 289 352 271C371 248 384 274 378 290C371 312 402 314 415 289" fill="none" stroke="#F4D9A8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M421 235V480" fill="none" stroke="#88AA9B" stroke-width="18" stroke-linecap="round"/>
+<path d="M421 235V480" fill="none" stroke="#C4DAC8" stroke-width="10" stroke-linecap="round"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif" font-size="11"><text x="43" y="188">GLOMÉRULO</text><path d="M119 194L142 248" stroke="#193E42" opacity="0.4"/><text x="272" y="212">TÚBULOS</text><path d="M295 219L296 255" stroke="#193E42" opacity="0.4"/><text x="105" y="442">ALÇA DE HENLE</text><path d="M198 436L263 452" stroke="#193E42" opacity="0.4"/><text x="394" y="516">DUCTO COLETOR</text><path d="M425 501V485" stroke="#193E42" opacity="0.4"/></g>
+
+<path d="M36 579H524" stroke="#193E42" stroke-opacity="0.15"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.5" opacity="0.65"><text x="36" y="600">ESQUEMA DIDÁTICO</text><text x="524" y="600" text-anchor="end">360X • DEMONSTRAÇÃO</text></g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="600" viewBox="0 0 560 600" role="img" aria-labelledby="title desc">
+<title id="title">Mapa do cérebro — esquema didático</title><desc id="desc">Uma vista lateral, simplificada.. Ilustração original demonstrativa, sem orientação clínica.</desc>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#193E42" opacity="0.06"/></pattern><linearGradient id="coral" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ED9B86"/><stop offset="1" stop-color="#C66662"/></linearGradient><linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6E7DA"/><stop offset="1" stop-color="#92B7A9"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A9C7D4"/><stop offset="1" stop-color="#6F9FAC"/></linearGradient></defs>
+<rect width="560" height="600" fill="#E7E6EF"/><rect width="560" height="600" fill="url(#dots)"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif"><text x="36" y="40" font-size="10" letter-spacing="2.2" opacity="0.72">CADERNO VISUAL / 03</text><text x="36" y="81" font-family="Georgia,serif" font-size="34">Mapa do cérebro</text><text x="36" y="108" font-size="12" opacity="0.7">Uma vista lateral, simplificada.</text></g>
+
+<circle cx="280" cy="328" r="175" fill="#DCDCE8"/>
+<path d="M128 336C102 301 117 253 146 233C141 198 184 178 211 184C229 151 277 155 297 171C329 153 374 169 388 196C422 199 442 234 435 261C460 285 452 329 427 343C415 379 370 387 336 371L176 373C147 372 127 359 128 336Z" fill="#B3B1CC" stroke="#777895" stroke-width="3"/>
+<path d="M295 176C280 214 303 231 284 260C265 292 291 319 277 368" fill="none" stroke="#777895" stroke-width="5"/>
+<path d="M128 292C164 279 182 302 207 290C233 276 255 282 281 277M288 274C329 267 345 288 368 272C389 256 415 269 439 266" fill="none" stroke="#777895" stroke-width="5"/>
+<path d="M160 242C187 250 189 221 215 222C242 222 250 198 275 203M138 316C167 300 184 330 210 318C236 304 244 325 269 316M160 349C177 333 197 352 220 341C240 333 253 346 274 343M316 199C329 221 357 206 371 230C384 248 409 235 421 250M310 304C332 324 358 305 376 324C395 345 410 324 430 330M315 343C337 334 349 359 373 351" fill="none" stroke="#9292AF" stroke-width="5" stroke-linecap="round"/>
+<path d="M317 375C334 352 380 356 399 378C418 402 402 431 375 438C345 444 317 428 310 407Z" fill="#98B5AB" stroke="#648D81" stroke-width="3"/>
+<path d="M326 383C353 372 381 379 393 392M319 397C343 387 376 391 400 404M325 411C347 402 373 408 391 418M342 427C355 418 367 424 380 430" fill="none" stroke="#719B8D" stroke-width="4" stroke-linecap="round"/>
+<path d="M286 367L284 409C283 433 298 447 302 471" fill="none" stroke="#B3B1CC" stroke-width="27" stroke-linecap="round"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif" font-size="11"><text x="42" y="182">CÓRTEX</text><path d="M95 186L152 220" stroke="#193E42" opacity="0.4"/><text x="409" y="466">CEREBELO</text><path d="M407 452L385 429" stroke="#193E42" opacity="0.4"/><text x="160" y="489">TRONCO ENCEFÁLICO</text><path d="M270 475L285 447" stroke="#193E42" opacity="0.4"/></g>
+
+<path d="M36 554H524" stroke="#193E42" stroke-opacity="0.15"/>
+<g fill="#193E42" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.5" opacity="0.65"><text x="36" y="575">ESQUEMA DIDÁTICO</text><text x="524" y="575" text-anchor="end">360X • DEMONSTRAÇÃO</text></g></svg>
