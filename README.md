@@ -1,11 +1,14 @@
 # CardFeed360X 🩺
 
+[Abrir o CardFeed360X](https://aldenirfilho.github.io/cardfeed360x/) · [Repositório no GitHub](https://github.com/aldenirfilho/cardfeed360x)
+
 Seu acervo visual de medicina, em um feed de figurinhas. Importe imagens em lote, encontre temas, crie coleções e mantenha os dados de cada figura à mão.
 
 ## O que você pode fazer
 
 - Importar várias imagens de uma vez, por seleção ou arrastando para o site.
-- Usar JPG, PNG, WEBP e GIF, com limite de 20 MB por imagem.
+- Usar JPG, PNG, WEBP e GIF, com limite de 20 MB por imagem e 300 arquivos por lote.
+- Manter até 5.000 imagens ou 500 MB no acervo; esse limite preserva a exportação completa.
 - Receber sugestões de especialidade e tags a partir do nome do arquivo.
 - Editar título, especialidade, coleção, tags, fonte e notas de estudo.
 - Buscar por termos, filtrar por especialidade e separar favoritas e itens para revisar.
@@ -37,7 +40,7 @@ Limpar os dados do navegador, usar uma sessão privada ou exceder o espaço disp
 3. Abra as figurinhas para conferir título, classificação e fonte.
 4. Use **Exportar meu backup** para salvar uma cópia do acervo.
 
-Imagens com o mesmo conteúdo são identificadas pelo hash SHA-256, mesmo quando têm nomes diferentes. A restauração adiciona itens ao acervo existente; não apaga o catálogo atual. O backup contém imagens e metadados: guarde-o em um local privado. O formato atual aceita até 5.000 figurinhas e 500 MB de imagens por backup; a memória disponível no dispositivo também limita operações grandes.
+Imagens com o mesmo conteúdo são identificadas pelo hash SHA-256, mesmo quando têm nomes diferentes. A restauração adiciona itens ao acervo existente; não apaga o catálogo atual. O backup contém imagens e metadados: guarde-o em um local privado. O formato atual aceita até 5.000 figurinhas e 500 MB de imagens por backup (o arquivo JSON pode ter cerca de 667 MB por causa da codificação); a memória disponível no dispositivo também limita operações grandes.
 
 ## Executar no computador
 
